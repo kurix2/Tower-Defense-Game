@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 3c1eac87bfc435f4d8f0f4b38fb147a3
+timeCreated: 1461765420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dbznormalgokusheet_0
+    21300002: dbznormalgokusheet_1
+    21300004: dbznormalgokusheet_2
+    21300006: dbznormalgokusheet_3
+    21300008: dbznormalgokusheet_4
+    21300010: dbznormalgokusheet_5
+    21300012: dbznormalgokusheet_6
+    21300014: dbznormalgokusheet_7
+    21300016: dbznormalgokusheet_8
+    21300018: dbznormalgokusheet_9
+    21300020: dbznormalgokusheet_10
+    21300022: dbznormalgokusheet_11
+    21300024: dbznormalgokusheet_12
+    21300026: dbznormalgokusheet_13
+    21300028: dbznormalgokusheet_14
+    21300030: dbznormalgokusheet_15
+    21300032: dbznormalgokusheet_16
+    21300034: dbznormalgokusheet_17
+    21300036: dbznormalgokusheet_18
+    21300038: dbznormalgokusheet_19
+    21300040: dbznormalgokusheet_20
+    21300042: dbznormalgokusheet_21
+    21300044: dbznormalgokusheet_22
+    21300046: dbznormalgokusheet_23
+    21300048: dbznormalgokusheet_24
+    21300050: dbznormalgokusheet_25
+    21300052: dbznormalgokusheet_26
+    21300054: dbznormalgokusheet_27
+    21300056: dbznormalgokusheet_28
+    21300058: dbznormalgokusheet_29
+    21300060: dbznormalgokusheet_30
+    21300062: dbznormalgokusheet_31
+    21300064: dbznormalgokusheet_32
+    21300066: dbznormalgokusheet_33
+    21300068: dbznormalgokusheet_34
+    21300070: dbznormalgokusheet_35
+    21300072: dbznormalgokusheet_36
+    21300074: dbznormalgokusheet_37
+    21300076: dbznormalgokusheet_38
+    21300078: dbznormalgokusheet_39
+    21300080: dbznormalgokusheet_40
+    21300082: dbznormalgokusheet_41
+    21300084: dbznormalgokusheet_42
+    21300086: dbznormalgokusheet_43
+    21300088: dbznormalgokusheet_44
+    21300090: dbznormalgokusheet_45
+    21300092: dbznormalgokusheet_46
+    21300094: dbznormalgokusheet_47
+    21300096: dbznormalgokusheet_48
+    21300098: dbznormalgokusheet_49
+    21300100: dbznormalgokusheet_50
+    21300102: dbznormalgokusheet_51
+    21300104: dbznormalgokusheet_52
+    21300106: dbznormalgokusheet_53
+    21300108: dbznormalgokusheet_54
+    21300110: dbznormalgokusheet_55
+    21300112: dbznormalgokusheet_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dbznormalgokusheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 441
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 39}
+        - {x: -20, y: 18}
+        - {x: -25, y: -15}
+        - {x: -25, y: -39}
+        - {x: 25, y: -39}
+        - {x: 25, y: 39}
+    - name: dbznormalgokusheet_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 441
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 39.5}
+        - {x: -22, y: 18.5}
+        - {x: -25, y: -0.5}
+        - {x: -25, y: -39.5}
+        - {x: 25, y: -39.5}
+        - {x: 25, y: 33.5}
+        - {x: 22, y: 39.5}
+    - name: dbznormalgokusheet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 441
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 39.5}
+        - {x: -19, y: 17.5}
+        - {x: -25, y: -10.5}
+        - {x: -25, y: -39.5}
+        - {x: 25, y: -39.5}
+        - {x: 25, y: 31.5}
+        - {x: 15, y: 39.5}
+    - name: dbznormalgokusheet_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 441
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 35.5}
+        - {x: -20.5, y: 33.5}
+        - {x: -20.5, y: -35.5}
+        - {x: 20.5, y: -35.5}
+        - {x: 20.5, y: 31.5}
+        - {x: 13.5, y: 35.5}
+    - name: dbznormalgokusheet_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 441
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 12.5}
+        - {x: 11.5, y: 10.5}
+        - {x: 12.5, y: 11.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 19.5, y: 26.5}
+        - {x: 15.5, y: 32.5}
+        - {x: -2.5, y: 32.5}
+        - {x: -15.5, y: 26.5}
+        - {x: -19.5, y: 0.5}
+        - {x: -19.5, y: -32.5}
+        - {x: 19.5, y: -32.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 17.5, y: 14.5}
+    - name: dbznormalgokusheet_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 441
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: -14}
+        - {x: 19, y: -5}
+        - {x: 14, y: 0}
+        - {x: 10, y: 0}
+        - {x: 16, y: 7}
+        - {x: 16, y: 12}
+        - {x: 13, y: 21}
+        - {x: 7, y: 31}
+        - {x: 5, y: 32}
+        - {x: -11, y: 32}
+        - {x: -20, y: 20}
+        - {x: -20, y: -32}
+        - {x: -2, y: -32}
+        - {x: 0, y: -29}
+        - {x: 1, y: -25}
+        - {x: 4, y: -28}
+    - name: dbznormalgokusheet_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 441
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 33}
+        - {x: -18, y: 18}
+        - {x: -18, y: -23}
+        - {x: -15, y: -33}
+        - {x: 16, y: -33}
+        - {x: 18, y: -32}
+        - {x: 18, y: 32}
+        - {x: 16, y: 33}
+    - name: dbznormalgokusheet_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 442
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 35}
+        - {x: -29, y: 35}
+        - {x: -34, y: 27}
+        - {x: -34, y: -21}
+        - {x: -28, y: -35}
+        - {x: 1, y: -35}
+        - {x: 29, y: -23}
+        - {x: 34, y: -19}
+        - {x: 34, y: -7}
+        - {x: 10, y: 19}
+    - name: dbznormalgokusheet_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 442
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 39}
+        - {x: -18, y: 29}
+        - {x: -18, y: -37}
+        - {x: -17, y: -39}
+        - {x: 5, y: -39}
+        - {x: 18, y: -13}
+        - {x: 18, y: 38}
+        - {x: 16, y: 39}
+    - name: dbznormalgokusheet_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 440
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 1}
+        - {x: -31, y: -41}
+        - {x: 8, y: -41}
+        - {x: 36, y: -28}
+        - {x: 36, y: 11}
+        - {x: 7, y: 41}
+        - {x: -20, y: 41}
+        - {x: -36, y: 22}
+    - name: dbznormalgokusheet_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 442
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -4.5}
+        - {x: 9, y: -4.5}
+        - {x: 11, y: -4.5}
+        - {x: 21, y: 6.5}
+        - {x: 21, y: 22.5}
+        - {x: 13, y: 35.5}
+        - {x: -3, y: 35.5}
+        - {x: -21, y: 22.5}
+        - {x: -21, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 21, y: -13.5}
+        - {x: 17, y: -2.5}
+    - name: dbznormalgokusheet_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 431
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -45}
+        - {x: 12.5, y: -45}
+        - {x: 29.5, y: -27}
+        - {x: 29.5, y: 33}
+        - {x: 17.5, y: 45}
+        - {x: -0.5, y: 45}
+        - {x: -29.5, y: 29}
+        - {x: -29.5, y: -6}
+    - name: dbznormalgokusheet_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 447
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 37}
+        - {x: -24, y: 17}
+        - {x: -24, y: -10}
+        - {x: -14, y: -37}
+        - {x: 8, y: -37}
+        - {x: 24, y: -16}
+        - {x: 24, y: 28}
+        - {x: 18, y: 37}
+    - name: dbznormalgokusheet_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 39.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -39.5}
+        - {x: 25.5, y: -39.5}
+        - {x: 25.5, y: 38.5}
+        - {x: 23.5, y: 39.5}
+    - name: dbznormalgokusheet_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 357
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -38.5}
+        - {x: 36, y: -37.5}
+        - {x: 36, y: 36.5}
+        - {x: 34, y: 38.5}
+        - {x: 3, y: 38.5}
+        - {x: -25, y: 22.5}
+        - {x: -24, y: 10.5}
+        - {x: -19, y: 8.5}
+        - {x: -36, y: -24.5}
+        - {x: -36, y: -36.5}
+        - {x: -35, y: -38.5}
+        - {x: -25, y: -38.5}
+        - {x: -24, y: -37.5}
+        - {x: -24, y: -35.5}
+        - {x: -18, y: -38.5}
+    - name: dbznormalgokusheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 358
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 40}
+        - {x: -24.5, y: -1}
+        - {x: -24.5, y: -40}
+        - {x: 24.5, y: -40}
+        - {x: 24.5, y: 40}
+    - name: dbznormalgokusheet_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 357
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -35.5}
+        - {x: 2.5, y: -38.5}
+        - {x: 21.5, y: -38.5}
+        - {x: 37.5, y: -19.5}
+        - {x: 37.5, y: 38.5}
+        - {x: 0.5, y: 38.5}
+        - {x: -33.5, y: 13.5}
+        - {x: -27.5, y: 1.5}
+        - {x: -23.5, y: -3.5}
+        - {x: -37.5, y: -24.5}
+        - {x: -37.5, y: -36.5}
+        - {x: -36.5, y: -38.5}
+        - {x: -26.5, y: -38.5}
+        - {x: -25.5, y: -37.5}
+        - {x: -25.5, y: -35.5}
+        - {x: -15.5, y: -27.5}
+    - name: dbznormalgokusheet_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 357
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 9}
+        - {x: 22.5, y: 25}
+        - {x: 17.5, y: 36}
+        - {x: 13.5, y: 37}
+        - {x: 2.5, y: 37}
+        - {x: -11.5, y: 21}
+        - {x: -24.5, y: -13}
+        - {x: -24.5, y: -37}
+        - {x: 24.5, y: -37}
+        - {x: 24.5, y: -27}
+        - {x: 18.5, y: -11}
+    - name: dbznormalgokusheet_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 358
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 25.5}
+        - {x: -22, y: -30.5}
+        - {x: -21, y: -33.5}
+        - {x: 22, y: -33.5}
+        - {x: 22, y: 33.5}
+        - {x: -2, y: 33.5}
+        - {x: -18, y: 29.5}
+    - name: dbznormalgokusheet_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 357
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 41}
+        - {x: -26, y: -41}
+        - {x: 17, y: -41}
+        - {x: 26, y: -2}
+        - {x: 26, y: 41}
+    - name: dbznormalgokusheet_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 348
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 42}
+        - {x: -18, y: 42}
+        - {x: -18, y: -42}
+        - {x: 3, y: -42}
+        - {x: 18, y: -24}
+        - {x: 18, y: 39}
+    - name: dbznormalgokusheet_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 360
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32.5}
+        - {x: -27, y: 12.5}
+        - {x: -28, y: 3.5}
+        - {x: -28, y: -32.5}
+        - {x: -2, y: -32.5}
+        - {x: 28, y: -23.5}
+        - {x: 28, y: 30.5}
+        - {x: 25, y: 32.5}
+    - name: dbznormalgokusheet_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 358
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 32.5}
+        - {x: -8, y: 32.5}
+        - {x: -28, y: 21.5}
+        - {x: -28, y: -32.5}
+        - {x: -2, y: -32.5}
+        - {x: 28, y: -20.5}
+    - name: dbznormalgokusheet_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 300
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 27.5}
+        - {x: 12, y: 33.5}
+        - {x: -10, y: 33.5}
+        - {x: -22, y: 20.5}
+        - {x: -22, y: -17.5}
+        - {x: -19, y: -33.5}
+        - {x: 10, y: -33.5}
+        - {x: 17, y: -30.5}
+        - {x: 20, y: -23.5}
+        - {x: 19, y: -14.5}
+        - {x: 22, y: -8.5}
+    - name: dbznormalgokusheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 35}
+        - {x: -24.5, y: 27}
+        - {x: -24.5, y: -35}
+        - {x: 24.5, y: -35}
+        - {x: 24.5, y: 28}
+        - {x: 16.5, y: 35}
+    - name: dbznormalgokusheet_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 273
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 40}
+        - {x: -28.5, y: 25}
+        - {x: -28.5, y: 6}
+        - {x: -21.5, y: 1}
+        - {x: -19.5, y: 2}
+        - {x: -16.5, y: 5}
+        - {x: -16.5, y: 11}
+        - {x: -15.5, y: -40}
+        - {x: 22.5, y: -40}
+        - {x: 28.5, y: -38}
+        - {x: 28.5, y: 20}
+        - {x: 12.5, y: 40}
+    - name: dbznormalgokusheet_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 40.5}
+        - {x: -14.5, y: 40.5}
+        - {x: -25.5, y: 32.5}
+        - {x: -25.5, y: -40.5}
+        - {x: 25.5, y: -40.5}
+        - {x: 25.5, y: 17.5}
+        - {x: 0.5, y: 39.5}
+    - name: dbznormalgokusheet_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 281
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -1}
+        - {x: 20, y: -2}
+        - {x: 33, y: -4}
+        - {x: 36, y: 2}
+        - {x: 36, y: 17}
+        - {x: -13, y: 31}
+        - {x: -23, y: 31}
+        - {x: -34, y: 19}
+        - {x: -36, y: 8}
+        - {x: -36, y: -9}
+        - {x: -35, y: -10}
+        - {x: 6, y: -31}
+        - {x: 21, y: -31}
+        - {x: 26, y: -8}
+        - {x: 16, y: -3}
+        - {x: 12, y: 0}
+    - name: dbznormalgokusheet_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 296
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 2}
+        - {x: 32, y: -1}
+        - {x: 37, y: 5}
+        - {x: 37, y: 16}
+        - {x: 36, y: 18}
+        - {x: 20, y: 18}
+        - {x: 8, y: 17}
+        - {x: 5, y: 18}
+        - {x: -30, y: 18}
+        - {x: -32, y: 16}
+        - {x: -40, y: 3}
+        - {x: -40, y: -15}
+        - {x: -38, y: -18}
+        - {x: 19, y: -18}
+        - {x: 36, y: -15}
+        - {x: 40, y: -11}
+        - {x: 40, y: 3}
+    - name: dbznormalgokusheet_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 299
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 7.5}
+        - {x: 28, y: 18.5}
+        - {x: -31, y: 18.5}
+        - {x: -36, y: 17.5}
+        - {x: -36, y: -18.5}
+        - {x: 3, y: -18.5}
+        - {x: 28, y: -17.5}
+        - {x: 36, y: -10.5}
+    - name: dbznormalgokusheet_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 302
+        width: 86
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dbznormalgokusheet_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 302
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 25.5}
+        - {x: -29, y: 15.5}
+        - {x: -29, y: -19.5}
+        - {x: -21, y: -25.5}
+        - {x: 29, y: -25.5}
+        - {x: 29, y: 25.5}
+    - name: dbznormalgokusheet_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 299
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 26.5}
+        - {x: -32, y: -19.5}
+        - {x: -31, y: -26.5}
+        - {x: 32, y: -26.5}
+        - {x: 32, y: 14.5}
+        - {x: 8, y: 26.5}
+    - name: dbznormalgokusheet_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 33}
+        - {x: -28, y: 5}
+        - {x: -24, y: -4}
+        - {x: -16, y: -6}
+        - {x: -12, y: -5}
+        - {x: -10, y: -3}
+        - {x: -8, y: -3}
+        - {x: -10, y: -3}
+        - {x: -12, y: -6}
+        - {x: -22, y: -8}
+        - {x: -22, y: -33}
+        - {x: 24, y: -33}
+        - {x: 28, y: -32}
+        - {x: 28, y: 26}
+        - {x: 2, y: 33}
+    - name: dbznormalgokusheet_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 188
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 29.5}
+        - {x: 29, y: 28.5}
+        - {x: 20, y: 27.5}
+        - {x: 12, y: 23.5}
+        - {x: 2, y: 21.5}
+        - {x: 6, y: 22.5}
+        - {x: 10, y: 25.5}
+        - {x: 17, y: 33.5}
+        - {x: -38, y: 33.5}
+        - {x: -42, y: 25.5}
+        - {x: -42, y: 4.5}
+        - {x: -31, y: -13.5}
+        - {x: -27, y: -11.5}
+        - {x: -25, y: -33.5}
+        - {x: -13, y: -33.5}
+        - {x: -8, y: -30.5}
+        - {x: 0, y: -20.5}
+        - {x: 42, y: 9.5}
+    - name: dbznormalgokusheet_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 186
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 2.5}
+        - {x: 27.5, y: 10.5}
+        - {x: 27.5, y: 30.5}
+        - {x: 26.5, y: 31.5}
+        - {x: -27.5, y: 31.5}
+        - {x: -27.5, y: -8.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -18.5, y: -12.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -13.5, y: -31.5}
+        - {x: 27.5, y: -31.5}
+        - {x: 27.5, y: -7.5}
+        - {x: 26.5, y: -3.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 16.5, y: 0.5}
+    - name: dbznormalgokusheet_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 185
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 33}
+        - {x: -27.5, y: -33}
+        - {x: 27.5, y: -33}
+        - {x: 27.5, y: 16}
+        - {x: 14.5, y: 33}
+    - name: dbznormalgokusheet_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 186
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 39}
+        - {x: -18, y: 29}
+        - {x: -18, y: -37}
+        - {x: -17, y: -39}
+        - {x: 5, y: -39}
+        - {x: 18, y: -13}
+        - {x: 18, y: 38}
+        - {x: 16, y: 39}
+    - name: dbznormalgokusheet_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 188
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 43}
+        - {x: -34, y: -43}
+        - {x: -18, y: -43}
+        - {x: 34, y: -11}
+        - {x: 34, y: 5}
+        - {x: -9, y: 43}
+    - name: dbznormalgokusheet_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 187
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 36}
+        - {x: -36, y: 36}
+        - {x: -36, y: -32}
+        - {x: -31, y: -36}
+        - {x: -8, y: -36}
+        - {x: 4, y: -19}
+        - {x: 36, y: 0}
+        - {x: 36, y: 25}
+    - name: dbznormalgokusheet_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 186
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 44.5}
+        - {x: 2, y: 43.5}
+        - {x: -1, y: 44.5}
+        - {x: -18, y: 44.5}
+        - {x: -18, y: -44.5}
+        - {x: 17, y: -44.5}
+        - {x: 18, y: -34.5}
+        - {x: 18, y: 44.5}
+    - name: dbznormalgokusheet_41
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 186
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 36}
+        - {x: -14.5, y: 27}
+        - {x: -23.5, y: -9}
+        - {x: -23.5, y: -36}
+        - {x: 7.5, y: -36}
+        - {x: 23.5, y: -14}
+        - {x: 23.5, y: 20}
+        - {x: 13.5, y: 36}
+    - name: dbznormalgokusheet_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 37}
+        - {x: -17, y: 11}
+        - {x: -26, y: -25}
+        - {x: -26, y: -37}
+        - {x: 26, y: -37}
+        - {x: 26, y: 36}
+        - {x: 22, y: 37}
+    - name: dbznormalgokusheet_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 40}
+        - {x: -25, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 40}
+    - name: dbznormalgokusheet_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 93
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 40}
+        - {x: -25, y: 40}
+        - {x: -25, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 36}
+        - {x: 20, y: 39}
+    - name: dbznormalgokusheet_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 93
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 40}
+        - {x: -25, y: -40}
+        - {x: 25, y: -40}
+        - {x: 25, y: 40}
+    - name: dbznormalgokusheet_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 92
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 40.5}
+        - {x: -18.5, y: 40.5}
+        - {x: -18.5, y: -40.5}
+        - {x: 18.5, y: -40.5}
+        - {x: 18.5, y: 33.5}
+        - {x: 17.5, y: 38.5}
+    - name: dbznormalgokusheet_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 92
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 37.5}
+        - {x: 11.5, y: 41.5}
+        - {x: -19.5, y: 41.5}
+        - {x: -19.5, y: -41.5}
+        - {x: -8.5, y: -41.5}
+        - {x: -6.5, y: -38.5}
+        - {x: 4.5, y: -41.5}
+        - {x: 19.5, y: -41.5}
+    - name: dbznormalgokusheet_48
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 92
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 30.5}
+        - {x: 1.5, y: 41.5}
+        - {x: -18.5, y: 41.5}
+        - {x: -18.5, y: -41.5}
+        - {x: -7.5, y: -41.5}
+        - {x: -5.5, y: -38.5}
+        - {x: 3.5, y: -41.5}
+        - {x: 18.5, y: -41.5}
+    - name: dbznormalgokusheet_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 92
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 41.5}
+        - {x: -18.5, y: -41.5}
+        - {x: 18.5, y: -41.5}
+        - {x: 18.5, y: 41.5}
+    - name: dbznormalgokusheet_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 92
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 38}
+        - {x: -22.5, y: 22}
+        - {x: -22.5, y: -38}
+        - {x: 22.5, y: -38}
+        - {x: 22.5, y: 38}
+    - name: dbznormalgokusheet_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 91
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -2.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 20.5, y: -4.5}
+        - {x: 33.5, y: 1.5}
+        - {x: 33.5, y: 29.5}
+        - {x: 26.5, y: 38.5}
+        - {x: 9.5, y: 38.5}
+        - {x: -15.5, y: 21.5}
+        - {x: -14.5, y: 16.5}
+        - {x: -11.5, y: 13.5}
+        - {x: -33.5, y: -21.5}
+        - {x: -33.5, y: -38.5}
+        - {x: -23.5, y: -38.5}
+        - {x: -6.5, y: -31.5}
+        - {x: 24.5, y: -16.5}
+        - {x: 19.5, y: -6.5}
+    - name: dbznormalgokusheet_52
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 92
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 39.5}
+        - {x: -32, y: 23.5}
+        - {x: -32, y: 0.5}
+        - {x: 14, y: -39.5}
+        - {x: 32, y: -39.5}
+        - {x: 32, y: 1.5}
+        - {x: 8, y: 39.5}
+    - name: dbznormalgokusheet_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 37.5}
+        - {x: -22.5, y: 17.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -37.5}
+        - {x: 24.5, y: -37.5}
+        - {x: 24.5, y: 26.5}
+        - {x: 18.5, y: 37.5}
+    - name: dbznormalgokusheet_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -7.5}
+        - {x: -24.5, y: -37.5}
+        - {x: 24.5, y: -37.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 20.5, y: 37.5}
+        - {x: 3.5, y: 37.5}
+        - {x: -18.5, y: 16.5}
+    - name: dbznormalgokusheet_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 37.5}
+        - {x: -23.5, y: 19.5}
+        - {x: -24.5, y: -5.5}
+        - {x: -24.5, y: -37.5}
+        - {x: 24.5, y: -37.5}
+        - {x: 24.5, y: 34.5}
+        - {x: 21.5, y: 37.5}
+    - name: dbznormalgokusheet_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -7.5}
+        - {x: -24.5, y: -37.5}
+        - {x: 24.5, y: -37.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 20.5, y: 37.5}
+        - {x: 3.5, y: 37.5}
+        - {x: -18.5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

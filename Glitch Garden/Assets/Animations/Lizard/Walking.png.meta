@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 4a3dacb38d6c049f7ac0ce1b8b4e85c6
+timeCreated: 1470666430
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_deimaginator__x1_walk_png_1354836023_0
+    21300002: npc_deimaginator__x1_walk_png_1354836023_1
+    21300004: npc_deimaginator__x1_walk_png_1354836023_2
+    21300006: npc_deimaginator__x1_walk_png_1354836023_3
+    21300008: npc_deimaginator__x1_walk_png_1354836023_4
+    21300010: npc_deimaginator__x1_walk_png_1354836023_5
+    21300012: npc_deimaginator__x1_walk_png_1354836023_6
+    21300014: npc_deimaginator__x1_walk_png_1354836023_7
+    21300016: npc_deimaginator__x1_walk_png_1354836023_8
+    21300018: npc_deimaginator__x1_walk_png_1354836023_9
+    21300020: npc_deimaginator__x1_walk_png_1354836023_10
+    21300022: npc_deimaginator__x1_walk_png_1354836023_11
+    21300024: npc_deimaginator__x1_walk_png_1354836023_12
+    21300026: npc_deimaginator__x1_walk_png_1354836023_13
+    21300028: npc_deimaginator__x1_walk_png_1354836023_14
+    21300030: npc_deimaginator__x1_walk_png_1354836023_15
+    21300032: Walking_0
+    21300034: Walking_1
+    21300036: Walking_2
+    21300038: Walking_3
+    21300040: Walking_4
+    21300042: Walking_5
+    21300044: Walking_6
+    21300046: Walking_7
+    21300048: Walking_8
+    21300050: Walking_9
+    21300052: Walking_10
+    21300054: Walking_11
+    21300056: Walking_12
+    21300058: Walking_13
+    21300060: Walking_14
+    21300062: Walking_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 17.833313}
+        - {x: -86.5, y: 7.833313}
+        - {x: -86.5, y: -27.166687}
+        - {x: -80.5, y: -67.16669}
+        - {x: -75.5, y: -68.16669}
+        - {x: -20.5, y: -68.16669}
+        - {x: -10.5, y: -64.16669}
+        - {x: -5.5, y: -56.166687}
+        - {x: -5.5, y: -13.166687}
+        - {x: -42.5, y: 17.833313}
+    - name: Walking_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.191757, y: 9.833313}
+        - {x: -46.191757, y: 17.833313}
+        - {x: -65.19176, y: 17.833313}
+        - {x: -74.19176, y: 16.833313}
+        - {x: -86.19176, y: -7.166687}
+        - {x: -86.19176, y: -20.166687}
+        - {x: -82.19176, y: -23.166687}
+        - {x: -80.19176, y: -60.166687}
+        - {x: -50.191757, y: -68.16669}
+        - {x: -24.191757, y: -68.16669}
+        - {x: -5.191757, y: -55.166687}
+        - {x: -5.191757, y: -46.166687}
+        - {x: -6.191757, y: -43.166687}
+    - name: Walking_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.883514, y: 18.833313}
+        - {x: -65.883514, y: 18.833313}
+        - {x: -72.883514, y: 17.833313}
+        - {x: -83.883514, y: -5.166687}
+        - {x: -83.883514, y: -39.166687}
+        - {x: -75.883514, y: -63.166687}
+        - {x: -49.883514, y: -67.16669}
+        - {x: -26.883514, y: -67.16669}
+        - {x: -12.883514, y: -59.166687}
+        - {x: -4.8835144, y: -53.166687}
+        - {x: -4.8835144, y: -40.166687}
+    - name: Walking_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.5, y: -48.333313}
+        - {x: -64.5, y: -67.33331}
+        - {x: -5.5, y: -67.33331}
+        - {x: -5.5, y: -29.333313}
+        - {x: -29.5, y: 19.666687}
+        - {x: -79.5, y: 19.666687}
+        - {x: -83.5, y: 12.666687}
+    - name: Walking_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.191757, y: 21.666687}
+        - {x: -82.19176, y: 21.666687}
+        - {x: -82.19176, y: -28.333313}
+        - {x: -73.19176, y: -66.33331}
+        - {x: -37.191757, y: -66.33331}
+        - {x: -20.191757, y: -61.333313}
+        - {x: -5.191757, y: -54.333313}
+        - {x: -5.191757, y: -32.333313}
+    - name: Walking_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.883514, y: 20.666687}
+        - {x: -73.883514, y: 20.666687}
+        - {x: -81.883514, y: -3.333313}
+        - {x: -81.883514, y: -26.333313}
+        - {x: -66.883514, y: -65.33331}
+        - {x: -33.883514, y: -65.33331}
+        - {x: -8.883514, y: -58.333313}
+        - {x: -4.8835144, y: -51.333313}
+        - {x: -4.8835144, y: -37.333313}
+    - name: Walking_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 18.5}
+        - {x: -83.5, y: -2.5}
+        - {x: -83.5, y: -33.5}
+        - {x: -70.5, y: -64.5}
+        - {x: -12.5, y: -64.5}
+        - {x: -5.5, y: -62.5}
+        - {x: -5.5, y: -36.5}
+        - {x: -38.5, y: 18.5}
+    - name: Walking_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.191757, y: 17.5}
+        - {x: -68.19176, y: 17.5}
+        - {x: -84.19176, y: 1.5}
+        - {x: -84.19176, y: -28.5}
+        - {x: -76.19176, y: -57.5}
+        - {x: -66.19176, y: -64.5}
+        - {x: -10.191757, y: -64.5}
+        - {x: -5.191757, y: -63.5}
+        - {x: -5.191757, y: -30.5}
+        - {x: -25.191757, y: 14.5}
+    - name: Walking_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.883514, y: 16.5}
+        - {x: -84.883514, y: -4.5}
+        - {x: -84.883514, y: -43.5}
+        - {x: -74.883514, y: -64.5}
+        - {x: -8.883514, y: -64.5}
+        - {x: -4.8835144, y: -63.5}
+        - {x: -4.8835144, y: -31.5}
+        - {x: -28.883514, y: 16.5}
+    - name: Walking_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 17.833344}
+        - {x: -74.5, y: 16.833344}
+        - {x: -85.5, y: -7.1666565}
+        - {x: -85.5, y: -29.166656}
+        - {x: -77.5, y: -64.16666}
+        - {x: -18.5, y: -64.16666}
+        - {x: -10.5, y: -63.166656}
+        - {x: -5.5, y: -58.166656}
+        - {x: -5.5, y: -43.166656}
+        - {x: -41.5, y: 17.833344}
+    - name: Walking_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.191757, y: 17.833344}
+        - {x: -44.191757, y: 18.833344}
+        - {x: -69.19176, y: 18.833344}
+        - {x: -84.19176, y: 3.8333435}
+        - {x: -84.19176, y: -32.166656}
+        - {x: -77.19176, y: -67.16666}
+        - {x: -19.191757, y: -67.16666}
+        - {x: -5.191757, y: -55.166656}
+        - {x: -5.191757, y: -46.166656}
+        - {x: -9.191757, y: -44.166656}
+    - name: Walking_11
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.883514, y: -36.166656}
+        - {x: -71.883514, y: -67.16666}
+        - {x: -4.8835144, y: -67.16666}
+        - {x: -4.8835144, y: -37.166656}
+        - {x: -24.883514, y: 20.833344}
+        - {x: -69.883514, y: 20.833344}
+        - {x: -81.883514, y: -3.1666565}
+    - name: Walking_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 12.666672}
+        - {x: -43.5, y: 20.666672}
+        - {x: -58.5, y: 20.666672}
+        - {x: -72.5, y: 18.666672}
+        - {x: -83.5, y: -5.3333282}
+        - {x: -83.5, y: -25.333328}
+        - {x: -63.5, y: -66.33333}
+        - {x: -43.5, y: -66.33333}
+        - {x: -7.5, y: -56.33333}
+        - {x: -5.5, y: -54.33333}
+        - {x: -5.5, y: -45.33333}
+        - {x: -8.5, y: -40.33333}
+    - name: Walking_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.19176, y: 20.666672}
+        - {x: -83.19176, y: -0.33332825}
+        - {x: -83.19176, y: -33.33333}
+        - {x: -67.19176, y: -64.33333}
+        - {x: -57.191757, y: -60.33333}
+        - {x: -53.191757, y: -56.33333}
+        - {x: -55.191757, y: -59.33333}
+        - {x: -55.191757, y: -68.33333}
+        - {x: -28.191757, y: -68.33333}
+        - {x: -7.191757, y: -63.33333}
+        - {x: -5.191757, y: -52.33333}
+        - {x: -5.191757, y: -43.33333}
+        - {x: -40.191757, y: 20.666672}
+    - name: Walking_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.883514, y: 10.666672}
+        - {x: -43.883514, y: 19.666672}
+        - {x: -71.883514, y: 19.666672}
+        - {x: -82.883514, y: -7.3333282}
+        - {x: -82.883514, y: -59.33333}
+        - {x: -62.883514, y: -68.33333}
+        - {x: -23.883514, y: -68.33333}
+        - {x: -4.8835144, y: -56.33333}
+        - {x: -4.8835144, y: -45.33333}
+        - {x: -5.8835144, y: -43.33333}
+    - name: Walking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 17.5}
+        - {x: -85.5, y: -59.5}
+        - {x: -71.5, y: -66.5}
+        - {x: -53.5, y: -69.5}
+        - {x: -31.5, y: -69.5}
+        - {x: -5.5, y: -56.5}
+        - {x: -5.5, y: 2.5}
+        - {x: -27.5, y: 17.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2091 @@
+fileFormatVersion: 2
+guid: f03038a4f0f5f2f4586096d4f8083b46
+timeCreated: 1470666713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Talk_0
+    21300002: Talk_1
+    21300004: Talk_2
+    21300006: Talk_3
+    21300008: Talk_4
+    21300010: Talk_5
+    21300012: Talk_6
+    21300014: Talk_7
+    21300016: Talk_8
+    21300018: Talk_9
+    21300020: Talk_10
+    21300022: Talk_11
+    21300024: Talk_12
+    21300026: Talk_13
+    21300028: Talk_14
+    21300030: Talk_15
+    21300032: Talk_16
+    21300034: Talk_17
+    21300036: Talk_18
+    21300038: Talk_19
+    21300040: Talk_20
+    21300042: Talk_21
+    21300044: Talk_22
+    21300046: Talk_23
+    21300048: Talk_24
+    21300050: Talk_25
+    21300052: Talk_26
+    21300054: Talk_27
+    21300056: Talk_28
+    21300058: Talk_29
+    21300060: Talk_30
+    21300062: Talk_31
+    21300064: Talk_32
+    21300066: Talk_33
+    21300068: Talk_34
+    21300070: Talk_35
+    21300072: Talk_36
+    21300074: Talk_37
+    21300076: Talk_38
+    21300078: Talk_39
+    21300080: Talk_40
+    21300082: Talk_41
+    21300084: Talk_42
+    21300086: Talk_43
+    21300088: Talk_44
+    21300090: Talk_45
+    21300092: Talk_46
+    21300094: Talk_47
+    21300096: Talk_48
+    21300098: Talk_49
+    21300100: Talk_50
+    21300102: Talk_51
+    21300104: Talk_52
+    21300106: Talk_53
+    21300108: Talk_54
+    21300110: Talk_55
+    21300112: Talk_56
+    21300114: Talk_57
+    21300116: Talk_58
+    21300118: Talk_59
+    21300120: Talk_60
+    21300122: Talk_61
+    21300124: Talk_62
+    21300126: Talk_63
+    21300128: Talk_64
+    21300130: Talk_65
+    21300132: Talk_66
+    21300134: Talk_67
+    21300136: Talk_68
+    21300138: Talk_69
+    21300140: Talk_70
+    21300142: Talk_71
+    21300144: Talk_72
+    21300146: Talk_73
+    21300148: Talk_74
+    21300150: Talk_75
+    21300152: Talk_76
+    21300154: Talk_77
+    21300156: Talk_78
+    21300158: Talk_79
+    21300160: Talk_80
+    21300162: Talk_81
+    21300164: Talk_82
+    21300166: Talk_83
+    21300168: Talk_84
+    21300170: Talk_85
+    21300172: Talk_86
+    21300174: Talk_87
+    21300176: Talk_88
+    21300178: Attacking_0
+    21300180: Attacking_1
+    21300182: Attacking_2
+    21300184: Attacking_3
+    21300186: Attacking_4
+    21300188: Attacking_5
+    21300190: Attacking_6
+    21300192: Attacking_7
+    21300194: Attacking_8
+    21300196: Attacking_9
+    21300198: Attacking_10
+    21300200: Attacking_11
+    21300202: Attacking_12
+    21300204: Attacking_13
+    21300206: Attacking_14
+    21300208: Attacking_15
+    21300210: Attacking_16
+    21300212: Attacking_17
+    21300214: Attacking_18
+    21300216: Attacking_19
+    21300218: Attacking_20
+    21300220: Attacking_21
+    21300222: Attacking_22
+    21300224: Attacking_23
+    21300226: Attacking_24
+    21300228: Attacking_25
+    21300230: Attacking_26
+    21300232: Attacking_27
+    21300234: Attacking_28
+    21300236: Attacking_29
+    21300238: Attacking_30
+    21300240: Attacking_31
+    21300242: Attacking_32
+    21300244: Attacking_33
+    21300246: Attacking_34
+    21300248: Attacking_35
+    21300250: Attacking_36
+    21300252: Attacking_37
+    21300254: Attacking_38
+    21300256: Attacking_39
+    21300258: Attacking_40
+    21300260: Attacking_41
+    21300262: Attacking_42
+    21300264: Attacking_43
+    21300266: Attacking_44
+    21300268: Attacking_45
+    21300270: Attacking_46
+    21300272: Attacking_47
+    21300274: Attacking_48
+    21300276: Attacking_49
+    21300278: Attacking_50
+    21300280: Attacking_51
+    21300282: Attacking_52
+    21300284: Attacking_53
+    21300286: Attacking_54
+    21300288: Attacking_55
+    21300290: Attacking_56
+    21300292: Attacking_57
+    21300294: Attacking_58
+    21300296: Attacking_59
+    21300298: Attacking_60
+    21300300: Attacking_61
+    21300302: Attacking_62
+    21300304: Attacking_63
+    21300306: Attacking_64
+    21300308: Attacking_65
+    21300310: Attacking_66
+    21300312: Attacking_67
+    21300314: Attacking_68
+    21300316: Attacking_69
+    21300318: Attacking_70
+    21300320: Attacking_71
+    21300322: Attacking_72
+    21300324: Attacking_73
+    21300326: Attacking_74
+    21300328: Attacking_75
+    21300330: Attacking_76
+    21300332: Attacking_77
+    21300334: Attacking_78
+    21300336: Attacking_79
+    21300338: Attacking_80
+    21300340: Attacking_81
+    21300342: Attacking_82
+    21300344: Attacking_83
+    21300346: Attacking_84
+    21300348: Attacking_85
+    21300350: Attacking_86
+    21300352: Attacking_87
+    21300354: Attacking_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Attacking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -30}
+        - {x: -76.5, y: -70}
+        - {x: -66.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -42}
+        - {x: -41.5, y: 11}
+    - name: Attacking_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -39}
+        - {x: -76.5, y: -71}
+        - {x: -68.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -32}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 17}
+        - {x: -76.5, y: 16}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -27}
+        - {x: -77.5, y: -72}
+        - {x: -66.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -42}
+        - {x: -48.5, y: 17}
+    - name: Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -80.5, y: 16}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -66}
+        - {x: -74.5, y: -68}
+        - {x: -61.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -62}
+        - {x: -6.5, y: -48}
+        - {x: -46.5, y: 17}
+    - name: Attacking_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 17}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -27}
+        - {x: -77.5, y: -72}
+        - {x: -73.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -31}
+        - {x: -28.5, y: 17}
+    - name: Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -50}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: 0}
+        - {x: -39.5, y: 17}
+    - name: Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -41.5, y: 9}
+        - {x: -48.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -89.5, y: -8}
+        - {x: -89.5, y: -38}
+        - {x: -76.5, y: -71}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 17}
+        - {x: -90.5, y: 12}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -71}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -20}
+        - {x: -19.5, y: 17}
+    - name: Attacking_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -74.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -63}
+        - {x: -88.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Attacking_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -6}
+        - {x: -89.5, y: -20}
+        - {x: -77.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Attacking_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -5}
+        - {x: -89.5, y: -21}
+        - {x: -77.5, y: -72}
+        - {x: -70.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -1}
+        - {x: -89.5, y: -34}
+        - {x: -79.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 17}
+        - {x: -78.5, y: 17}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -59}
+        - {x: -6.5, y: -51}
+        - {x: -8.5, y: -48}
+    - name: Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -90.5, y: -7}
+        - {x: -90.5, y: -19}
+        - {x: -76.5, y: -70}
+        - {x: -65.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -49}
+        - {x: -7.5, y: -47}
+    - name: Attacking_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -80.5, y: 17}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -67}
+        - {x: -60.5, y: -73}
+        - {x: -18.5, y: -73}
+        - {x: -6.5, y: -70}
+        - {x: -6.5, y: -38}
+        - {x: -37.5, y: 15}
+    - name: Attacking_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 18}
+        - {x: -87.5, y: 18}
+        - {x: -90.5, y: 13}
+        - {x: -90.5, y: -46}
+        - {x: -73.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -43}
+        - {x: -31.5, y: 12}
+    - name: Attacking_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: 18}
+        - {x: -91.5, y: -2}
+        - {x: -91.5, y: -66}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -18}
+        - {x: -35.5, y: 18}
+    - name: Attacking_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 18}
+        - {x: -91.5, y: 15}
+        - {x: -91.5, y: -60}
+        - {x: -88.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -46}
+        - {x: -40.5, y: 18}
+    - name: Attacking_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -46}
+        - {x: -81.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -43}
+        - {x: -29.5, y: 18}
+        - {x: -73.5, y: 18}
+        - {x: -91.5, y: 5}
+    - name: Attacking_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 18}
+        - {x: -91.5, y: -7}
+        - {x: -91.5, y: -48}
+        - {x: -75.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -46}
+        - {x: -43.5, y: 18}
+    - name: Attacking_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: -56}
+        - {x: -70.5, y: -73}
+        - {x: -21.5, y: -73}
+        - {x: -6.5, y: -70}
+        - {x: -6.5, y: -30}
+        - {x: -26.5, y: 16}
+        - {x: -34.5, y: 18}
+        - {x: -84.5, y: 18}
+        - {x: -90.5, y: 4}
+    - name: Attacking_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -80.5, y: 17}
+        - {x: -90.5, y: 6}
+        - {x: -90.5, y: -44}
+        - {x: -83.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -69}
+        - {x: -6.5, y: -39}
+        - {x: -37.5, y: 15}
+    - name: Attacking_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -43}
+        - {x: -81.5, y: -73}
+        - {x: -16.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: 3}
+        - {x: -28.5, y: 17}
+    - name: Attacking_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: 17}
+        - {x: -88.5, y: -5}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -36}
+        - {x: -79.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -34}
+        - {x: -32.5, y: 17}
+    - name: Attacking_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 17}
+        - {x: -89.5, y: 0}
+        - {x: -89.5, y: -39}
+        - {x: -83.5, y: -63}
+        - {x: -75.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -26.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -47}
+        - {x: -46.5, y: 17}
+    - name: Attacking_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -20}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -89.5, y: 7}
+        - {x: -89.5, y: -63}
+        - {x: -78.5, y: -73}
+        - {x: -14.5, y: -73}
+        - {x: -6.5, y: -59}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Attacking_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -82.5, y: 17}
+        - {x: -89.5, y: 4}
+        - {x: -89.5, y: -67}
+        - {x: -79.5, y: -73}
+        - {x: -14.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -47}
+        - {x: -39.5, y: 7}
+    - name: Attacking_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -17}
+        - {x: -80.5, y: -26}
+        - {x: -84.5, y: -35}
+        - {x: -76.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -25}
+        - {x: -79.5, y: -68}
+        - {x: -63.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -40}
+        - {x: -42.5, y: 17}
+    - name: Attacking_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -88.5, y: -6}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -38}
+        - {x: -80.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -36}
+        - {x: -32.5, y: 14}
+    - name: Attacking_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -9}
+        - {x: -46.5, y: 17}
+        - {x: -90.5, y: 17}
+        - {x: -90.5, y: -22}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Attacking_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -35}
+        - {x: -75.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -61}
+        - {x: -6.5, y: -48}
+        - {x: -43.5, y: 17}
+    - name: Attacking_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 17}
+        - {x: -78.5, y: 16}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -30}
+        - {x: -79.5, y: -68}
+        - {x: -59.5, y: -73}
+        - {x: -36.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 17}
+    - name: Attacking_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -73}
+        - {x: -20.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -35}
+        - {x: -31.5, y: 17}
+    - name: Attacking_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 9}
+        - {x: -48.5, y: 17}
+        - {x: -65.5, y: 17}
+        - {x: -75.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -34}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Attacking_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -30}
+        - {x: -76.5, y: -70}
+        - {x: -66.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -42}
+        - {x: -41.5, y: 11}
+    - name: Attacking_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -39}
+        - {x: -76.5, y: -71}
+        - {x: -68.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -32}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Attacking_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Attacking_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -33}
+        - {x: -75.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+    - name: Attacking_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -76.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -28.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -43}
+        - {x: -43.5, y: 17}
+    - name: Attacking_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -40}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -33}
+        - {x: -75.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+    - name: Attacking_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -27}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -27}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -90.5, y: -7}
+        - {x: -90.5, y: -47}
+        - {x: -77.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 17}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -73}
+        - {x: -16.5, y: -73}
+        - {x: -6.5, y: -67}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -26}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -76.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -28.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -43}
+        - {x: -43.5, y: 17}
+    - name: Attacking_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -40}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Attacking_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Attacking_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Attacking_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Attacking_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Attacking_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Attacking_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
